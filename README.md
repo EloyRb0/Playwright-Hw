@@ -1,6 +1,6 @@
-# Playwright Homework
+# Playwright 
 
-Pair homework covering Playwright locators, built-in annotations, auto-waiting
+Playwright locators, built-in annotations, auto-waiting
 actions, and the four flavors of assertions.
 
 ## Activities
